@@ -1,9 +1,21 @@
 # FIFA World Cup 2026 Player Performance Dataset Prediction using Machine Learning
 
 ## Project Overview
-This project uses Machine Learning to predict the number of goals scored by football players based on various player attributes from a FIFA dataset.
+This project demonstrates the application of Machine Learning techniques to analyze the FIFA World Cup 2026 Player Performance dataset obtained from Kaggle. The primary objective is to develop a predictive model capable of estimating the number of goals scored by players based on their performance statistics.
 
-We applied a Decision Tree Regressor to predict the goals column.
+A Decision Tree Regressor was selected as the learning algorithm because the target variable (goals scored) is continuous.
+
+---
+
+## Dataset
+
+- Dataset: FIFA World Cup 2026 Player Performance
+
+- Source: Kaggle
+
+- Format: CSV
+
+- Records: Player performance statistics from the FIFA World Cup 2026.
 
 ## Group Members
 - [Pius Eho] - UEB3521023: [Your Index]
@@ -11,7 +23,7 @@ We applied a Decision Tree Regressor to predict the goals column.
 - [Amanfo Kofi Yeboah] - UEB3503223: [Index]
 
 GitHub Repositories:
-- [Pius Eho](https://github.com/xorse-pius/FIFA-World-Cup-2026-Player-Performance)
+- [Pius_Eho](https://github.com/xorse-pius/FIFA-World-Cup-2026-Player-Performance)
 - [Member 2](https://github.com/member2-username/FIFA-World-Cup-2026-Player-Performance)
 - [Member 3](https://github.com/member3-username/FIFA-World-Cup-2026-Player-Performance)
 
