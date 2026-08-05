@@ -10,12 +10,13 @@ A Decision Tree Regressor was selected as the learning algorithm because the tar
 ## Dataset
 
 - Dataset: FIFA World Cup 2026 Player Performance
-
 - Source: Kaggle
-
 - Format: CSV
-
 - Records: Player performance statistics from the FIFA World Cup 2026.
+-  File: fifa.csv
+- Contains player information such as:
+  - player_id, player_name, age, nationality, team
+  - goals, assists, minutes played, ratings, and other performance metrics
 
 ## Group Members
 - [Pius Eho] - UEB3521023: [Your Index]
@@ -26,12 +27,6 @@ GitHub Repositories:
 - [Pius_Eho](https://github.com/xorse-pius/FIFA-World-Cup-2026-Player-Performance)
 - [Member 2](https://github.com/member2-username/FIFA-World-Cup-2026-Player-Performance)
 - [Member 3](https://github.com/member3-username/FIFA-World-Cup-2026-Player-Performance)
-
-## Dataset
-- File: fifa.csv
-- Contains player information such as:
-  - player_id, player_name, age, nationality, team
-  - goals, assists, minutes played, ratings, and other performance metrics
 
 ## Technologies Used
 - Python
