@@ -34,14 +34,6 @@ GitHub Repositories:
 - Scikit-learn (DecisionTreeRegressor)
 - Matplotlib / Seaborn (for visualization)
 - Jupyter Notebook
-
-## Project Structure
-FIFA-World-Cup-2026-Player-Performance/
-│
-├── FIFA_World_Cup_2026_Player_Performance.ipynb
-├── fifa_world_cup_2026_player_performance.csv
-├── README.md
-└── requirements.txt
  
 ## Installation
 
