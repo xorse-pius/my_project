@@ -11,9 +11,9 @@ We applied a Decision Tree Regressor to predict the goals column.
 - [Amanfo Kofi Yeboah] - UEB3503223: [Index]
 
 GitHub Repositories:
-- [Pius Eho](https://github.com/xorse-pius/FIFA World Cup 2026 Player Performance)
-- [Member 2](https://github.com/member2-username/FIFA World Cup 2026 Player Performance)
-- [Member 3](https://github.com/member3-username/FIFA World Cup 2026 Player Performance)
+- [Pius Eho](https://github.com/xorse-pius/FIFA-World-Cup-2026-Player-Performance)
+- [Member 2](https://github.com/member2-username/FIFA-World-Cup-2026-Player-Performance)
+- [Member 3](https://github.com/member3-username/FIFA-World-Cup-2026-Player-Performance)
 
 ## Dataset
 - File: fifa.csv
