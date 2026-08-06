@@ -38,15 +38,14 @@ GitHub Repositories:
 ## Installation
 
 Clone the repository:
-'''bash
 
+'''bash
 git clone https://github.com/your-username/FIFA-World-Cup-2026-Player-Performance.git
 '''
 
 Install the required libraries:
 
 '''bash
-
 pip install pandas numpy scikit-learn
 '''
 ## Usage
