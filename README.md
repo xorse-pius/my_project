@@ -19,14 +19,14 @@ A Decision Tree Regressor was selected as the learning algorithm because the tar
   - goals, assists, minutes played, ratings, and other performance metrics
 
 ## Group Members
-- [Pius Eho] - UEB3521023: [Your Index]
-- [Inusah Salifu] - UEB3502623: [Index]
-- [Amanfo Kofi Yeboah] - UEB3503223: [Index]
+- [Pius Eho] - UEB3521023
+- [Inusah Salifu] - UEB3502623
+- [Amanfo Kofi Yeboah] - UEB3503223
 
 GitHub Repositories:
 - [Pius_Eho](https://github.com/xorse-pius/FIFA-World-Cup-2026-Player-Performance)
-- [Member 2](https://github.com/member2-username/FIFA-World-Cup-2026-Player-Performance)
-- [Member 3](https://github.com/member3-username/FIFA-World-Cup-2026-Player-Performance)
+- [Inusah Salifu](https://github.com/Triple042/FIFA-World-Cup-2026-Player-Performance)
+- [Amanfo Kofi Yeboal](https://github.com/Amanfo-dev/FIFA-World-Cup-2026-Player-Performance)
 
 ## Technologies Used
 - Python
