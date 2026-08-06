@@ -24,7 +24,7 @@ A Decision Tree Regressor was selected as the learning algorithm because the tar
 - [Amanfo Kofi Yeboah] - UEB3503223
 
 GitHub Repositories:
-- [Pius_Eho](https://github.com/xorse-pius/FIFA-World-Cup-2026-Player-Performance)
+- [Pius Eho](https://github.com/xorse-pius/FIFA-World-Cup-2026-Player-Performance)
 - [Inusah Salifu](https://github.com/Triple042/FIFA-World-Cup-2026-Player-Performance)
 - [Amanfo Kofi Yeboal](https://github.com/Amanfo-dev/FIFA-World-Cup-2026-Player-Performance)
 
